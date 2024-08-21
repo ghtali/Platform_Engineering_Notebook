@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install Terraform and AWS CLI on Linux
-# Repo: https://github.com/ghtali/Platform_Engineering_Notebook/
+# Repository: https://github.com/ghtali/Platform_Engineering_Notebook/
 # Personal Note: This script will help you quickly get set up with Terraform and the AWS CLI for managing AWS infrastructure. I recommend using this as a base setup to ensure you have the necessary tools to provision and manage your AWS resources with Terraform.
 
 # Define the Terraform version you want to install
